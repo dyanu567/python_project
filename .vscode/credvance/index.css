@@ -1,0 +1,420 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar{
+    height: 100px;
+    width: 100%;
+    /* background-color: rgb(212, 220, 217); */
+
+}
+.imges img{
+    height: 100px;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+
+}
+.Email{
+    height: 30px;
+    width: 20%;
+    /* background-color: red; */
+    position: relative;
+    left: 890px;
+    top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feerr{
+    height: 50px;
+    width: 15%;
+    background-color: rgb(7, 214, 145);
+    color: white;
+    border-radius: 15%;
+  position: relative;
+    left: 880px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.future{
+    height: 690px;
+    width: 100%;
+    background-color: cadetblue;
+     display: flex;
+
+
+
+}
+
+.future-img {
+    background-image: url('https://demo.wplanding.net/wp-content/uploads/2025/05/img-4654986598-min.png');
+    background-size: cover;      
+    background-position: center;  
+    background-repeat: no-repeat; 
+    width: 60%;                  
+    height: 680px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;              
+}
+.future-content{
+    height: 280px;
+    width: 40%;
+    /* background-color: blanchedalmond; */
+      position: relative;
+      top: 200px;
+      padding: 10px;
+}
+
+.Get{
+     height: 40px;
+    width: 30%;
+    background-color: rgb(7, 214, 145);
+    color: white;
+    border-radius: 15%;
+  position: relative;
+  top: 35px;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Call{
+    height: 40px;
+    width: 50%;
+    background-color: rgb(7, 214, 145);
+    color: white;
+    border-radius: 15%;
+    position: relative;
+    left: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.Credit {
+    height: 750px;
+    width: 100%;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      /* background-color: blueviolet; */
+}
+
+.Credit h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.Repair{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   position: relative;
+   top: 50px;
+
+}
+
+.card {
+    height: 300px;
+    width: 30%;
+  /* background-color: rgb(222, 27, 151); */
+  display: flex;
+  justify-self:center;
+  align-items: center;
+  flex-direction: column;
+  border: 2px solid black;
+  font-size: 22px;
+  border-radius: 10px;
+  position: relative;
+  /* top: 50px; */
+  /* gap: 10px; */
+  padding: 18px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+.card  h6{
+    position: relative;
+    top: 80px;
+}
+
+
+.card h3 {
+     position: relative;
+    top: 70px;
+}
+#Layer_1{
+    height: 30px;
+    color: rgb(93, 183, 235);
+
+
+
+}
+
+.card:hover {
+  color: rgb(19, 18, 18);
+  transform: scale(1.03);
+
+}
+
+.repair{
+    height: 200px;
+    width: 100%;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 25px;
+
+}
+
+.Benefits{
+    height:500px;
+    width: 100%;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.Better img{
+    height: 350px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.deserve{
+      height: 370px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+
+}
+.rates {
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.Started{
+       height: 40px;
+    width: 30%;
+    background-color: rgb(7, 214, 145);
+    color: white;
+    border-radius: 15%;
+  position: relative;
+  top: 85px;
+   right: 150px;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.no{
+           height: 40px;
+    width: 30%;
+    background-color: rgb(7, 214, 145);
+    color: white;
+    border-radius: 15%;
+  position: relative;
+  top: 35px;
+  left: 100px;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.proven{
+    height: 290px; 
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+     font-size: 20px;
+     margin: 10px;
+     padding: 10px;
+     /* background-color: aqua; */
+ 
+
+}
+.Evaluation{
+    height: 450px;
+    width: 30%;
+    position: relative;
+     right: 370px;
+     top: 65px;
+
+}
+.Dispute{
+    height: 450px;
+    width: 30%;
+    
+}
+.Monitor {
+    height: 450px;
+    width: 30%;
+     position: relative;
+     left: 370px;
+     bottom: 65px;
+} 
+
+.Stories{
+    height:500px;
+    width: 100%;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.until img{
+    height: 350px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Success{
+      height: 370px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+
+}
+.lost {
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Years {
+    
+    height: 170px;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+
+}
+.of{
+    height: 140px;
+    width: 30%;
+    background-color: rgb(184, 177, 177);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.of hr{
+    width: 100%;
+}
+
+.Consultation{
+    height: 500px;
+    width: 100%;
+    background-color: rgba(126, 69, 180, 0.535);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.USA{
+    height: 450px;
+    width: 50%;
+    /* background-color: aqua; */
+    padding: 15px;
+    font-size: 20px;
+}
+
+.NYC{
+    height: 100px;
+    width: 80%;
+    /* background-color: bisque; */
+    margin: 20px;
+    padding: 10px;
+
+}
+.from1{
+ height: 380px;
+    width: 30%;
+    /* background-color: rgb(235, 222, 121); */
+
+}
+ .form-box {
+    height:100%;
+    width: 100%;
+      background-color: white;
+      padding: 20px 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      width: 300px;
+    }
+
+    .form-box h2 {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .form-box input[type="text"],
+    .form-box input[type="email"] {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+
+    .form-box input[type="submit"] {
+      width: 100%;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      padding: 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .form-box input[type="submit"]:hover {
+      background-color: #45a049;
+    }

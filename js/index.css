@@ -1,0 +1,115 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+ 
+/* 
+html,body{
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     flex-wrap: wrap;
+    
+}
+
+
+
+.card{
+   height: fit-content;
+   width: 600px;
+   background-color: rgb(245, 31, 31);
+   padding: 20px;
+   
+   border-radius: 40px; 
+   gap: 20px;
+   border: 2px solid rgb(16, 16, 16);
+   box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5);
+   color: rgb(15, 14, 14);
+}  */
+/* 
+.card {
+    height: fit-content;
+    width: 300px;
+    border: 2px solid #ff005d;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    background-color: #f5faff;
+    text-align: center;
+   background-color: #ff00a2;
+    
+}
+
+.id h1 {
+    font-size: 22px;
+    color: #f5f0f3;
+    
+}
+
+.id hr {
+    border: 1px solid #161717;
+    margin: 10px 0;
+}
+
+.img img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #007BFF;
+    margin: 10px 0;
+}
+
+.NAME h1 {
+    font-size: 20px;
+    color: #333;
+    margin: 10px 0 5px;
+}
+
+.ditel{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.detail h1 {
+    font-size: 18px;
+    margin: 5px 0;
+    color: #444;
+}
+
+.detail h2 {
+    font-size: 16px;
+   
+    color: #555;
+} */
+
+
+html,Body{
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+    background-color: aqua;
+}
+
+.box{
+    height: 100vh;
+    width: 100vw
+}
+
+.card{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: brown;
+    border: 2px solid black;
+    position: absolute;
+
+}
